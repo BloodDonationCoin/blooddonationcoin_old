@@ -5,8 +5,10 @@
 
 ### Pools de mineração oficiais!
 
-Para iniciar a mineração, acesse a Pool desejada e clique em Getting_started!
+Para iniciar a mineração, acesse a Pool desejada!
 
 
 [bbr-pool.ddns.net](http://bbr-pool.ddns.net/#getting_started)
+
+[bbr-4miner.me](http://bbr.4miner.me/#getting_started)
 
