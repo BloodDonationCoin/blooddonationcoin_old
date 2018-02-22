@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/blooddonationcoin)
 
-### Blood Donation Coin - Moeda Brasileira!
+## Blood Donation Coin - Moeda Brasileira!
 
 ### O que é?
 A Blood Donation Coin, é uma moeda nascida no Brasil, e com algumas parcerias internacionais de hemocentros e hemonúcleos espalhados pelo mundo!
