@@ -21,7 +21,7 @@ Forked from: Bytecoin
 Total Number of Coins: 18,446,744
 Consensus Mechanism: Proof-of-Work 
 Hashing Algorithm: CryptoNight
-PS: Na nossa pool tamos bastante informações atualizadas da BLOCKCHAIN BBR http://bbr-pool.ddns.net/
+
 
 
 
