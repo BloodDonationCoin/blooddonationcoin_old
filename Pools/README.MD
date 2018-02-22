@@ -1,7 +1,7 @@
 
 ![Alt Text](https://github.com/blooddonationcoin)
 
-### Blood Donation Coin - Moeda Brasileira!
+## Blood Donation Coin - Moeda Brasileira!
 
 ### Pools de mineração oficiais!
 
