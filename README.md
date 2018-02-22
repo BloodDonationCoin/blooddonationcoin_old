@@ -25,7 +25,7 @@ PS: Na nossa pool tamos bastante informações atualizadas da BLOCKCHAIN BBR htt
 
 
 
-### Junte-se a nós!
+### Canais oficiais!
 
 Grupo oficial telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
 
