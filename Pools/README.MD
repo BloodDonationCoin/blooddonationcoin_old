@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/blooddonationcoin)
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/blooddonationcoin.png)
 
 ## Blood Donation Coin - Moeda Brasileira!
 
