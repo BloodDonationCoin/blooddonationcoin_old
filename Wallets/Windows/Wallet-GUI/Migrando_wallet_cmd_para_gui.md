@@ -43,7 +43,7 @@
 ##### Overview => informações de sincronização.
 ##### Transfer => Transferência de fundos.  
 ##### Transactions => Transações realizadas.
-##### OBS: O sincronismo pode demorar alguns minutos!
+#### OBS: O sincronismo pode demorar alguns minutos!
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-07.PNG)
