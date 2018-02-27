@@ -65,33 +65,26 @@
 
 
 ##
-### Canais oficiais!
+## Nossos Links!
 
-### Grupo oficial telegram:
-https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
+### facebook:
+https://www.facebook.com/bbrcoin
 
-### Grupo oficial WhatsApp:
+### Twitter:
+https://twitter.com/bbrcoin
+
+### Instagram:
+https://www.instagram.com/bbrcoin
+
+### Grupo WhatsApp:
 https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
 
-### Youtube
+### Grupo Telegram:
+https://t.me/bbrcoin
+
+### Canal YouTube:
 https://www.youtube.com/channel/UCm2w4bHbbSPWVk5_LfZ_0sQ
 
-##
-### Informações técnicas em 
-
-BitcoinTalk: https://bitcointalk.org/index.php?topic=2980178
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### BitcoinTalk:
+https://bitcointalk.org/index.php?topic=2980178
 
