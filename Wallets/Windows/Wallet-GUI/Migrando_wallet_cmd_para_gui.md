@@ -34,7 +34,7 @@
 #### OBS: Aconselhamos a criar uma cópia de segurança da wallet e armazenar em local seguro!
 ##
 
-![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-05.PNG)
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-06.PNG)
 
 ##
 #### 7) Ao efetuar login na Wallet GUI, será exibido as informações abaixo.
