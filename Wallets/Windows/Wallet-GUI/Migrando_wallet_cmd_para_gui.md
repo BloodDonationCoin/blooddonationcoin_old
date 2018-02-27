@@ -1,5 +1,5 @@
 
-## Blood Donation Coin - Wallet GUI Versão 0.0.1!
+## Blood Donation Coin - Wallet CLI x GUI Versão 0.0.1!
 
 #### 1) Para instalar a Wallet-Gui, vamos acessar o site http://blooddonationcoin.org/, clique em downloads.
 ##
@@ -31,7 +31,7 @@
 
 ## 
 #### 6) Será solicitado a senha criada para a segurança da wallet, preencha com sua senha, clique em Login!
-#### OBS: Aconselhamos a criar uma cópia de segurança da wallet e armazenar em local seguro!
+#### OBS: Aconselhamos a criar uma cópia de segurança da Wallet e armazenar em local seguro!
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-06.PNG)
