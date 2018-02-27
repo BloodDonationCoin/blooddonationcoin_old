@@ -16,7 +16,7 @@
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-03.PNG)
 
 
-##### Ao extrair os arquivos, vamos iniciar a wallet GUI, Clique em BloodDonationCoin.exe para iniciar a wallet, será apresentado as opções abaixo, Open (Abrir Wallet), New (Nova wallet), Clique em New para criar uma nova wallet.
+##### Vamos iniciar a wallet GUI, Clique em BloodDonationCoin.exe para iniciar a wallet, será apresentado as opções abaixo, Open (Abrir Wallet), New (Nova wallet), Clique em New para criar uma nova wallet.
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-04.PNG)
