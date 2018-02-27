@@ -63,24 +63,20 @@
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-09.PNG)
 
-##
-### Canais oficiais!
+## Nossos Links!
 
-Grupo oficial telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
+##### Facebook: https://www.facebook.com/bbrcoin
 
-Grupo oficial WhatsApp: https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
+##### Twitter: https://twitter.com/bbrcoin
 
-##
-### Informações técnicas em 
+##### Instagram: https://www.instagram.com/bbrcoin
 
-BitcoinTalk: https://bitcointalk.org/index.php?topic=2980178
+##### Grupo WhatsApp: https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
 
+##### Grupo Telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
 
+##### Canal Telegram: https://t.me/bbrcoin
 
+##### Canal YouTube: https://www.youtube.com/channel/UCm2w4bHbbSPWVk5_LfZ_0sQ
 
-
-
-
-
-
-
+##### BitcoinTalk: https://bitcointalk.org/index.php?topic=2980178
