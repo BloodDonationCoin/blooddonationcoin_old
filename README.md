@@ -26,7 +26,7 @@ Hashing Algorithm: CryptoNight
 
 ## Nossos Links!
 
-##### facebook: https://www.facebook.com/bbrcoin
+##### Facebook: https://www.facebook.com/bbrcoin
 
 ##### Twitter: https://twitter.com/bbrcoin
 
