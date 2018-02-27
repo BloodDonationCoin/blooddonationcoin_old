@@ -18,7 +18,7 @@
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-03.PNG)
 
 ##
-#### 4) Vamos iniciar a wallet GUI, Clique em BloodDonationCoin.exe para iniciar a wallet, será apresentado as opções abaixo, Open (Abrir Wallet), New (Nova wallet), Clique em New para criar uma nova wallet.
+#### 4) Vamos iniciar a Wallet GUI, Clique em BloodDonationCoin.exe para iniciar a Wallet, será apresentado as opções abaixo, Open (Abrir Wallet), New (Nova Wallet), Clique em New para criar uma nova Wallet.
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-04.PNG)
@@ -31,15 +31,15 @@
 
 ##
 #### 6) Será solicitado uma senha para a wallet, preencher com uma senha de sua escolha, clique em Login!
-##### OBS: Aconselhamos a criar uma cópia de segurança da wallet criada e armazenar em local seguro!
+##### OBS: Aconselhamos a criar uma cópia de segurança da Wallet criada e armazenar em local seguro!
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-06.PNG)
 
 ##
-#### 7) Ao efetuar login na wallet GUI, será exibido as informações abaixo.
-##### Address => Identificação da wallet.
-##### Balance => Saldo da sua wallet. 
+#### 7) Ao efetuar login na Wallet GUI, será exibido as informações abaixo.
+##### Address => Identificação da Wallet.
+##### Balance => Saldo da sua Wallet. 
 ##### Overview => informações de sincronização.
 ##### Transfer => Transferência de fundos.  
 ##### Transactions => Transações realizadas.
