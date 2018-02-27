@@ -26,22 +26,15 @@
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-CLI-04.PNG)
 
 ##
-#### 4.1) Será exibido a Wallet copiada, clique em Open.
+#### 5) Será exibido a Wallet copiada, clique em Open.
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-CLI-04.1.PNG)
 
 ## 
-#### 5) Será solicitado a senha criada para a segurança da wallet, preencha com sua senha, clique em Login!
+#### 6) Será solicitado a senha criada para a segurança da wallet, preencha com sua senha, clique em Login!
 #### OBS: Aconselhamos a criar uma cópia de segurança da wallet e armazenar em local seguro!
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-05.PNG)
-
-##
-#### 6) Será solicitado uma senha para a wallet, preencher com uma senha de sua escolha, clique em Login!
-##### OBS: Aconselhamos a criar uma cópia de segurança da Wallet criada e armazenar em local seguro!
-##
-
-![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-06.PNG)
 
 ##
 #### 7) Ao efetuar login na Wallet GUI, será exibido as informações abaixo.
