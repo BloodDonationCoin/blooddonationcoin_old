@@ -67,9 +67,14 @@
 ##
 ### Canais oficiais!
 
-Grupo oficial telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
+### Grupo oficial telegram:
+https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
 
-Grupo oficial WhatsApp: https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
+### Grupo oficial WhatsApp:
+https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
+
+### Youtube
+https://www.youtube.com/channel/UCm2w4bHbbSPWVk5_LfZ_0sQ
 
 ##
 ### Informações técnicas em 
