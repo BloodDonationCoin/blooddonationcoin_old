@@ -4,3 +4,47 @@
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-01.PNG)
+
+##### Será exibido as opções abaixo, vamos clicar em Windows GUI, para iniciar o download.
+##
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-02.PNG)
+
+##### Após o download, com o descompactado de sua escolha, vamos extrair os arquivos compactados, será exibido os arquivos conforme imagem abaixo.
+##
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-03.PNG)
+
+
+##### Ao extrair os arquivos, vamos iniciar a wallet GUI, Clique em BloodDonationCoin.exe para iniciar a wallet, será apresentado as opções abaixo, Open (Abrir Wallet), New (Nova wallet), Clique em New para criar uma nova wallet.
+##
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-04.PNG)
+
+##### Será solicitado um nome para Wallet, após preencher com o nome desejado, clique em Create.
+##
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-05.PNG)
+
+##### Será solicitado uma senha para a wallet, preencher com uma senha de sua escolha, clique em Login!
+##### OBS: Aconselhamos a criar uma cópia de segurança da wallet criada e armazenar em local seguro!
+##
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-06.PNG)
+
+##### Ao efetuar login na wallet GUI, será exibido as informações abaixo.
+##### Address => Identificação da wallet.
+##### Balance => Saldo da sua wallet. 
+##### Overview => informações de sincronização.
+##### Transfer => Transferência de fundos.  
+##### Transactions => Transações realizadas.
+##
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-07.PNG)
+
+
+
+
+
+
+
