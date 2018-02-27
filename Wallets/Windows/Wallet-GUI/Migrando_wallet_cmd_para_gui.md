@@ -13,7 +13,7 @@
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-02.PNG)
 
 ##
-#### 3) Após o download, com o descompactador de sua escolha, vamos extrair os arquivos compactados, será exibido os arquivos conforme imagem abaixo.
+#### 3) Após o download, com o descompactador de sua escolha, vamos extrair os arquivos compactados, serão exibidos os arquivos conforme imagem abaixo.
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-03.PNG)
