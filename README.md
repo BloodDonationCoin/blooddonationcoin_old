@@ -23,14 +23,21 @@ Consensus Mechanism: Proof-of-Work
 Hashing Algorithm: CryptoNight
 
 
+##
+## Nossos Links!
 
+### facebook: https://www.facebook.com/bbrcoin
 
-### Canais oficiais!
+### Twitter: https://twitter.com/bbrcoin
 
-Grupo oficial telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
+### Instagram: https://www.instagram.com/bbrcoin
 
-Grupo oficial WhatsApp: https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
+### Grupo WhatsApp: https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
 
-### Informações técnicas em 
+### Grupo Telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
 
-BitcoinTalk: https://bitcointalk.org/index.php?topic=2980178
+### Canal Telegram: https://t.me/bbrcoin
+
+### Canal YouTube: https://www.youtube.com/channel/UCm2w4bHbbSPWVk5_LfZ_0sQ
+
+### BitcoinTalk: https://bitcointalk.org/index.php?topic=2980178
