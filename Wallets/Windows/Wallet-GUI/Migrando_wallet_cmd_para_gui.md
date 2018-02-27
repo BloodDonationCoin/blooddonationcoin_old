@@ -67,24 +67,20 @@
 ##
 ## Nossos Links!
 
-### facebook:
-https://www.facebook.com/bbrcoin
+### facebook: https://www.facebook.com/bbrcoin
 
-### Twitter:
-https://twitter.com/bbrcoin
+### Twitter: https://twitter.com/bbrcoin
 
-### Instagram:
-https://www.instagram.com/bbrcoin
+### Instagram: https://www.instagram.com/bbrcoin
 
-### Grupo WhatsApp:
-https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
+### Grupo WhatsApp: https://chat.whatsapp.com/EIkaWpes008JnOurWWjuaT
 
-### Grupo Telegram:
-https://t.me/bbrcoin
+### Grupo Telegram: https://t.me/joinchat/D5Ot9Q7tH7D-aTeUIw1Xzg
 
-### Canal YouTube:
-https://www.youtube.com/channel/UCm2w4bHbbSPWVk5_LfZ_0sQ
+### Canal Telegram: https://t.me/bbrcoin
 
-### BitcoinTalk:
-https://bitcointalk.org/index.php?topic=2980178
+### Canal YouTube: https://www.youtube.com/channel/UCm2w4bHbbSPWVk5_LfZ_0sQ
+
+### BitcoinTalk: https://bitcointalk.org/index.php?topic=2980178
+
 
