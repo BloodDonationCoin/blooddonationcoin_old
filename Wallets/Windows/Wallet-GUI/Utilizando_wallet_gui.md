@@ -47,6 +47,27 @@
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-07.PNG)
 
+##
+#### 7.1) Transfer:
+##### Após sincronização da Wallet Gui, será exibido o saldo da carteira, para transferir fundos, clique em Transfer e preencha com os dados abaixo, após este, clique em Send.
+##### Destination address => carteira de destino.
+##### Amount => valor desejado.
+##### Mixin count => 1.
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-08.PNG)
+
+##
+#### 7.2) Transactions:
+##### Em transações, vamos visualizar todas as informações transacionadas pela Wallet.
+##### Data, Valor, Taxa, Disponibilidade, Id. De Transação, Bloco.
+
+![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-09.PNG)
+
+
+
+
+
+
 
 
 
