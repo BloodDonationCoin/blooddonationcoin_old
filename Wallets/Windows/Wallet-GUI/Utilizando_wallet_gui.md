@@ -37,7 +37,7 @@
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-06.PNG)
 
 ##
-## 7) Ao efetuar login na wallet GUI, será exibido as informações abaixo.
+#### 7) Ao efetuar login na wallet GUI, será exibido as informações abaixo.
 ##### Address => Identificação da wallet.
 ##### Balance => Saldo da sua wallet. 
 ##### Overview => informações de sincronização.
