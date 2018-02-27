@@ -43,6 +43,8 @@
 ##### Overview => informações de sincronização.
 ##### Transfer => Transferência de fundos.  
 ##### Transactions => Transações realizadas.
+
+#### OBS: O sincronismo pode demorar alguns minutos!
 ##
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-07.PNG)
@@ -52,7 +54,7 @@
 ##### Após sincronização da Wallet Gui, será exibido o saldo da carteira, para transferir fundos, clique em Transfer e preencha com os dados abaixo, após este, clique em Send.
 ##### Destination address => carteira de destino.
 ##### Amount => valor desejado.
-##### Mixin count => 1.
+##### Mixin count => 0.
 
 ![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/Wallet-GUI/Wallet-Gui-08.PNG)
 
