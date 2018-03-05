@@ -1,0 +1,4 @@
+C:\Users\Matheus\Documents\GitHub\CryptoNoteWalletWrapper-master\MoneroWallet.Core\bin\Debug\BloodDonationCoinWallet.dll
+C:\Users\Matheus\Documents\GitHub\CryptoNoteWalletWrapper-master\MoneroWallet.Core\bin\Debug\BloodDonationCoinWallet.pdb
+C:\Users\Matheus\Documents\GitHub\CryptoNoteWalletWrapper-master\MoneroWallet.Core\obj\Debug\BloodDonationCoinWallet.dll
+C:\Users\Matheus\Documents\GitHub\CryptoNoteWalletWrapper-master\MoneroWallet.Core\obj\Debug\BloodDonationCoinWallet.pdb
